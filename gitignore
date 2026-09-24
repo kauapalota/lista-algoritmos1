@@ -1,0 +1,27 @@
+# Executaveis
+*.exe
+*.out
+*.bin
+a.out
+
+# Arquivos objeto
+*.o
+
+# Arquivos temporarios
+*.tmp
+*.temp
+*~
+.#*
+
+# IDEs e editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Diretorios de build
+build/
+dist/
